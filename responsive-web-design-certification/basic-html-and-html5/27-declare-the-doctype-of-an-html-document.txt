@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+  <h1>Hello FCC!</h1>
+</html>
